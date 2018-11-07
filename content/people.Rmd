@@ -1,4 +1,30 @@
 ---
-title: ''
+title: 'People'
 date: ''
 ---
+
+# (Illustrative content)
+
+## Academic staff (ITS)
+
+- Robin Lovelace
+- Ian Philips
+- Malcolm Morgan
+- John Nellthorpe
+
+## Academic staff (Geography)
+
+- Nick Malleson
+
+## PhD Students
+
+- Eugeni Vidal
+- Colin Caine
+- Caroline Tait
+- Thiago
+
+## External partners
+
+- CycleStreets.net
+- Phill Jones Associates
+- Department for Transport

@@ -3,4 +3,8 @@ title: 'ITS Leeds Geospatial theme: some ideas'
 date: ''
 ---
 
-There are many things spatial going on in ITS Leeds.
+With the emergence of new sensors and millions of GPS units produced each year, geographic data is becoming ubiquitous.
+Transport is an inherently spatial activity, displacing people, goods and services between A and B.
+
+ITS Leeds is ideally placed to lead research into rapidly evolving methods of geographic analysis applicable to a range of transport phenomena including road traffic safety, urban planning and optimal location of new transport investment.
+The content on these pages aims to provide a taster of what's possible and how a Geospatial theme could help put ITS Leeds not only on the map but *centre-stage* for modern transport geography.

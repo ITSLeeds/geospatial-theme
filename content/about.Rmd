@@ -10,6 +10,8 @@ Finding both subjects in the same university is rare, finding both subjects in t
 When these strengths are combined, amazing things are possible.
 This theme seeks to provide the go-to point for quantitative and computational transport geography research worldwide.
 
-![](images/geoplumber-nz-flows.png)
+```{r, out.width="100%", echo=FALSE}
+knitr::include_graphics("../images/geoplumber-nz-flows.png")
+```
 
 *Illustration of simulated flows between origins and destinations in an interactive 2.5D map using Uber's deck.gl software*

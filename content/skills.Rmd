@@ -1,4 +1,10 @@
 ---
-title: ''
+title: 'Geospatial skills'
 date: ''
 ---
+
+At ITS Leeds we teach a range of skills in core and specialised modules including:
+
+- Sustainable Spatial Planning and Analysis
+- Transport Data Science
+- Transport Data Collection and Analysis

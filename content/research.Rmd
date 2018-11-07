@@ -1,7 +1,35 @@
 ---
-title: ''
+title: 'Geospatial research at ITS'
 date: ''
+bibliography: /home/robin/allrefs.bib
 ---
 
 
-![](images/combined-mapbox-vcr-lviv.png)
+
+- The Greener Connectivity Visualisation Tool
+
+```{r, echo=FALSE}
+knitr::include_graphics("../images/combined-mapbox-vcr-lviv.png")
+```
+
+Illustration of new methods for representing 2 way flows on an interactive map using mapbox. Developed for a World Bank funded project.
+
+
+- The **Propensity to Cycle Tool (PCT)** [@lovelace_propensity_2017].
+
+
+```{r, echo=FALSE}
+knitr::include_graphics("https://blogpctbike.files.wordpress.com/2017/10/rnet-newcastle-cost-road.png")
+```
+
+- OptiTruck
+
+- Active Transport ToolBox (ATT) - a WHO funded geographic analysis and visualisation project [@lovelace_estimating_2018].
+
+
+```{r, echo=FALSE}
+knitr::include_graphics("../images/mapbox-accra-flowlayer.png")
+```
+
+## References
+
