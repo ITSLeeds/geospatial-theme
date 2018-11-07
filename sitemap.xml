@@ -7,7 +7,12 @@
   </url>
   
   <url>
-    <loc>/geospatial-theme/people/</loc>
+    <loc>/geospatial-theme/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/geospatial-theme/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -19,16 +24,11 @@
   </url>
   
   <url>
-    <loc>/geospatial-theme/about/</loc>
-  </url>
-  
-  <url>
-    <loc>/geospatial-theme/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/geospatial-theme/</loc>
+  </url>
+  
+  <url>
+    <loc>/geospatial-theme/people/</loc>
   </url>
   
   <url>

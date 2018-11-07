@@ -23,33 +23,6 @@ This is another test.</description>
     </item>
     
     <item>
-      <title></title>
-      <link>/geospatial-theme/people/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/geospatial-theme/people/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/geospatial-theme/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/geospatial-theme/research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/geospatial-theme/skills/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/geospatial-theme/skills/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>/geospatial-theme/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -57,6 +30,37 @@ This is another test.</description>
       <guid>/geospatial-theme/about/</guid>
       <description>The University of Leeds is one of the only places in the world where you can find expertise in cutting-edge methods for geospatial analysis alongside world leading transport research. The School of Geography is ranked in the top 20 geography departments worldwide; while ITS Leeds is rated in the top 10.
 Finding both subjects in the same university is rare, finding both subjects in the same faculty is unique. When these strengths are combined, amazing things are possible.</description>
+    </item>
+    
+    <item>
+      <title>Geospatial research at ITS</title>
+      <link>/geospatial-theme/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/geospatial-theme/research/</guid>
+      <description>The Greener Connectivity Visualisation Tool  Illustration of new methods for representing 2 way flows on an interactive map using mapbox. Developed for a World Bank funded project.
+ The Propensity to Cycle Tool (PCT) (Lovelace et al. 2017).   OptiTruck
+ Active Transport ToolBox (ATT) - a WHO funded geographic analysis and visualisation project (Lovelace et al. 2018).
+  References Lovelace, R, N Groot, M Adepeju, and M Padgham.</description>
+    </item>
+    
+    <item>
+      <title>Geospatial skills</title>
+      <link>/geospatial-theme/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/geospatial-theme/skills/</guid>
+      <description>At ITS Leeds we teach a range of skills in core and specialised modules including:
+ Sustainable Spatial Planning and Analysis Transport Data Science Transport Data Collection and Analysis  </description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>/geospatial-theme/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/geospatial-theme/people/</guid>
+      <description>(Illustrative content) Academic staff (ITS)  Robin Lovelace Ian Philips Malcolm Morgan John Nellthorpe   Academic staff (Geography)  Nick Malleson   PhD Students  Eugeni Vidal Colin Caine Caroline Tait Thiago   External partners  CycleStreets.net Phill Jones Associates Department for Transport    </description>
     </item>
     
   </channel>
