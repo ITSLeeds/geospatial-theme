@@ -3,12 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/geospatial-theme/about/</loc>
-    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+    <loc>/geospatial-theme/geospatial-slides/</loc>
   </url>
   
   <url>
-    <loc>/geospatial-theme/geospatial-slides/</loc>
+    <loc>/geospatial-theme/people/</loc>
+  </url>
+  
+  <url>
+    <loc>/geospatial-theme/research/</loc>
+  </url>
+  
+  <url>
+    <loc>/geospatial-theme/skills/</loc>
+  </url>
+  
+  <url>
+    <loc>/geospatial-theme/about/</loc>
   </url>
   
   <url>
@@ -18,7 +29,6 @@
   
   <url>
     <loc>/geospatial-theme/</loc>
-    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
