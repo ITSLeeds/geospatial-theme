@@ -1,14 +1,23 @@
+---
+output: github_document
+---
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-The goal of geospatial-theme is to provide a base for geospatial
-research at ITS.
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+The goal of geospatial-theme is to provide a base for geospatial research at ITS.
 
 ## Technical note
 
 The website was created using github and the following commands in bash:
 
-``` bash
+```bash
 git clone git@github.com:ITSLeeds/geospatial-theme
 rm -rv public
 mv geospatial-theme public 
@@ -24,8 +33,9 @@ git push origin gh-pages
 
 Then in R:
 
-``` r
+```{r, eval=FALSE}
 blogdown::new_site()
 f = list.files(path = "content/post/", full.names = TRUE)
 unlink(f, recursive = TRUE)
 ```
+

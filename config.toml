@@ -1,0 +1,48 @@
+baseurl = "https://itsleeds.github.io/geospatial-theme/"
+languageCode = "en-us"
+title = "ITS Leeds Geospatial"
+theme = "hugo-lithium"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "Research"
+    url = "/research/"
+[[menu.main]]
+    name = "Skills"
+    url = "/skills/"
+[[menu.main]]
+    name = "People"
+    url = "/about/"
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+[[menu.main]]
+    name = "GitHub"
+    url = "https://github.com/ITSLeeds/"
+# [[menu.main]]
+#     name = "Twitter"
+#     url = "https://twitter.com/ITSLeeds"
+
+[params]
+    description = "A website built through Hugo and blogdown."
+
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.12.0"
+    highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+
+    MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    MathJaxVersion = "2.7.5"
+
+    [params.logo]
+    url = "logo.jpg"
+    width = 50
+    height = 50
+    alt = "Logo"
+
