@@ -3,27 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
+    <loc>/geospatial-theme/about/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/geospatial-slides/</loc>
+    <loc>/geospatial-theme/geospatial-slides/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/geospatial-theme/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/geospatial-theme/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+    <loc>/geospatial-theme/tags/</loc>
     <priority>0</priority>
   </url>
   
