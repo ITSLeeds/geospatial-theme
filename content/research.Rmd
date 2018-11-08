@@ -31,5 +31,11 @@ knitr::include_graphics("https://blogpctbike.files.wordpress.com/2017/10/rnet-ne
 knitr::include_graphics("../images/mapbox-accra-flowlayer.png")
 ```
 
+- Air Pollution data (James Tate)
+
+```{r, echo=FALSE}
+knitr::include_graphics("../images/living-lap.png")
+```
+
 ## References
 
